@@ -81,8 +81,7 @@ Beberapa liga mungkin tidak memiliki data klasemen
 <img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/975599c8-4362-462d-9cec-8035fffba394" />
 
 👨‍💻 Author
-Trio Aditya
-Software Developer
+Trio Aditya | Software Developer
 
 ⭐ Penutup
 Project ini dibuat menggunakan Laravel (Backend) dan React (Frontend).
